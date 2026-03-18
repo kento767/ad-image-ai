@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "AdCraft - AIで作る広告画像",
   description: "テキストから広告用画像をAI生成。SNS広告に最適化されたクリエイティブを簡単に作成。",
+  verification: {
+    google: "VEKLE9Xvp6uqWCShdqr5TcoMJGrhhjJQ_zvpak3ibKI",
+  },
 };
 
 export default function RootLayout({
